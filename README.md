@@ -1,16 +1,17 @@
-## Hi there 👋
+# Привет, я KlevVid
 
-<!--
-**KlevVid1/KlevVid1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Пишу код, чиню баги и иногда делаю вид, что понимаю, почему это работает.
 
-Here are some ideas to get you started:
+## Немного обо мне
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  Пишу всякое под личные нужды
+-  Пытаюсь не сойти с ума от багов
+-  Лень - двигатель прогресса
+-  Люблю превращать идеи в почти работающий код
+
+## Что я использую
+
+```text
+Языки:        Python, Go
+Инструменты:  Git, GitHub, интернет и Ctrl+C / Ctrl+V
+ОС:           Arch Linux
